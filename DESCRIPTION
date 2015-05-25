@@ -1,0 +1,18 @@
+Name: sct
+Version: 2.4.0
+Date: 2015-04-06
+Author: various authors
+Maintainer: Omar Zapata <andresete.chaos@gmail.com>
+Title: Schwarz-Christoffel Toolbox
+Description: The SC Toolbox is a problem-solving environment for 
+computation and interaction with conformal maps to regions bounded by polygons, 
+including unbounded regions, logical quadrilaterals, and channels. 
+It includes a module for the solution of the Laplace equation 
+on such regions with piecewise constant boundary conditions, 
+to ten digits or more in seconds. 
+Nearly all of the Toolbox functions are accessible through a graphical interface.
+Depends: octave (>= 3.8.2)
+License: GPLv3+, MIT, FreeBSD
+Url: http://www.math.udel.edu/~driscoll/SC/
+
+
